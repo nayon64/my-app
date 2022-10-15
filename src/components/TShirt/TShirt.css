@@ -1,0 +1,10 @@
+.tShirt-container{
+	border: 1px solid gray;
+	padding: 20px;border-radius: 15px;
+}
+.tShirt-img-container img{
+	height: 250px;
+}
+.tShirt-details-container h4,p{
+	margin: 6px;
+}
